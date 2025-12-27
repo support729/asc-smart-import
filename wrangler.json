@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "asc-smart-import",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2a6f8487-92b2-4f1b-a38b-3d7a263ab8b1",
+			"database_name": "asc_smart_import"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
